@@ -1,6 +1,6 @@
 # Ultimate Monopoly Prototype
 
-Comp302 / Software Engineering / Fall 2017
+Fall 2017 Software Engineering Programming Assignment
 
 ## Prototype Functionality
 You are asked to build a small prototype of the original Monopoly game as described below.
