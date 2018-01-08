@@ -63,4 +63,5 @@ The game board will consist of 20 squares. In other words, each side of the game
 ```
 ## References
 [1] https://boardgamegeek.com/thread/1106327/ultimate-monopoly
+
 [2] https://en.wikipedia.org/wiki/Monopoly_(game)
