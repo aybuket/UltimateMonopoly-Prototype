@@ -2,10 +2,11 @@
 
 Comp302 / Software Engineering / Fall 2017
 
-### Prototype Functionality
+## Prototype Functionality
 You are asked to build a small prototype of the original Monopoly game as described below.
 
 The game board will consist of 20 squares. In other words, each side of the game board will be six (6) squares long. The small board you will build will be similar to the middle layer of the Ultimate Monopoly board reproduced on the next page. You are asked to implement the original Monopoly game rules on this reduced board. 
+```
   You are not asked to implement the following Monopoly features:
     Houses and house-related features
     Hotels and hotel-related features
@@ -15,8 +16,9 @@ The game board will consist of 20 squares. In other words, each side of the game
     Auction and bargaining
     The Chance and Community Chest cards
     All other Monopoly rules (e.g., rolling the dice, the amount of money players start with) should be implemented as described on the     ultimate monopoly document published on the course pages on Blackboard.
+```
  
-The twenty game square and their descriptions are below:
+#### The twenty game square and their descriptions are below:
 ```
 0 Go 
   Collect $200 as you pass
